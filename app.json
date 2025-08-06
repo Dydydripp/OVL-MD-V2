@@ -19,7 +19,7 @@
     },
     "NUMERO_OWNER": {
       "description": "Numéro WhatsApp de l'Owner (au format international)",
-      "value": "226xxxxxxxx",
+      "value": "+50935438072",
       "required": true
     },
     "MODE": {
@@ -39,18 +39,18 @@
     },
     "LEVEL_UP": {
       "description": "Activer le système de niveau (oui ou non)",
-      "value": "non",
-      "required": false
+      "value": "oui",
+      "required": true 
     },
     "STICKER_PACK_NAME": {
       "description": "Nom du pack de stickers",
       "value": "Wa-sticker",
-      "required": false
+      "required": true
     },
     "STICKER_AUTHOR_NAME": {
       "description": "Auteur du sticker",
       "value": "ᴏᴠʟ-ᴍᴅ-ᴠ𝟸",
-      "required": false
+      "required": true
     }
   },
   "formation": {
