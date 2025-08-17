@@ -7,13 +7,13 @@
   "success_url": "/",
   "stack": "container",
   "env": {
-    "PREFIXE": {. 
-      "description": "Préfixe utilisé pour les commandes du bot",
+    "PREFIXE": {
+      "description": ".",
       "value": ".",
       "required": true 
     },
-    "NOM_OWNER": {YT DYDYあ
-      "description": "Nom de l'Owner du bot",
+    "NOM_OWNER": {
+      "description": "YT DYDYあ",
       "value": "Ainz",
       "required": false
     },
@@ -27,8 +27,8 @@
       "value": "public",
       "required": true 
     },
-    "SESSION_ID": {Ovl-MD_R3fgo2YH_SESSION-ID
-      "description": "Identifiant de session",
+    "SESSION_ID": {
+      "description": "Ovl-MD_R3fgo2YH_SESSION-ID",
       "value": "ovl",
       "required": true
     },
