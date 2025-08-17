@@ -33,7 +33,7 @@
       "required": true
     },
     "DATABASE": {
-      "description": "Lien de la base de données PostgreSQL",
+      "description": "postgresql://postgres.xbsrtahnmnrzgaobvcvs:[YOUR-PASSWORD]@aws-1-eu-west-3.pooler.supabase.com:5432/postgres",
       "value": "",
       "required": false
     },
